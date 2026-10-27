@@ -1,0 +1,6 @@
+{
+  "name": "LOOP — Neon Echo Puzzle",
+  "description": "Premium, lightweight, endless Android puzzle game where players rotate neon circuit tiles, predict future moves, and plan around delayed Echo actions to connect START to GOAL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
